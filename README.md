@@ -11,7 +11,7 @@ This is a frontend project for the backend project for [CtoCPUEmulation](https:/
 3. Run `npm i` to install the dependencies.
 4. Clone the repository: `git clone https://github.com/fardinkamal62/CtoCPUEmulation`
 5. Follow the instructions in the CtoCPUEmulation README.md and set the environment variable `PORT`.
-6. Set http://localhost:3000${PORT from CtoCPUEmulation} as REACT_APP_PORT in the environment variable of this project.
+6. Set `http://localhost:3000${PORT from CtoCPUEmulation}` as `REACT_APP_PORT` in the environment variable of this project.
 7. Run `npm build` to start the server or `npm start` to start the server in development mode.
 8. Open the browser and navigate to `http://localhost:3000` to view the application.
 
