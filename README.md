@@ -3,7 +3,7 @@
 
 
 ## Description
-This is a frontend project backend project for [CtoCPUEmulation](https://github.com/fardinkamal62/CtoCPUEmulation), a project that emulates the execution of C code. It emulates the conversion of how a C code converts into assembly code then into machine code and then runs on a CPU & what instructions does CPU executes.
+This is a frontend project for the backend project for [CtoCPUEmulation](https://github.com/fardinkamal62/CtoCPUEmulation), a project that emulates the execution of C code. It emulates the conversion of how a C code converts into assembly code then into machine code and then runs on a CPU & what instructions does CPU executes.
 
 ## Usage
 1. Clone the repository: `git clone https://github.com/Smsudip57/CtoCPUEmulationFrontend.git`
